@@ -4,6 +4,8 @@
 
 This repository contains a complete MATLAB/Simulink-based control system designed for autonomous line following drone navigation (target hardware: Parrot Mambo). The project utilizes classical computer vision techniques, deterministic state machines, and PID controllers to enable a drone to autonomously follow a visual path, navigate sharp turns, and perform precision landing on a designated marker.
 
+Detailed informations
+
 ![Path planning example](images/v2.gif)
 ![Landing example](images/landing.gif)
 
@@ -38,7 +40,10 @@ The Simulink model is divided into several core subsystems:
 4. **Quality Assessment:**
 * Runs in parallel to the main control loop. Outputs raw position error, tolerance-adjusted error, and binary flags indicating perfect path alignment.
 
+## Detailed Documentation
+For a comprehensive overview of the system architecture, control logic flowcharts, and quantitative performance analysis (including Cross Track Error graphs and literature comparison), please refer to the official project report included in this repository:
 
+* **[raport_Karpiński_Grudziński.pdf](raport_Karpiński_Grudziński.pdf)** *(Note: The report is written in Polish).*
 
 ## Prerequisites
 
