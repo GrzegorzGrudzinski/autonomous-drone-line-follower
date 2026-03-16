@@ -62,3 +62,5 @@ To run and modify this simulation, the following software is required:
 * **Fuzzy Logic Control:** Replacing or augmenting the current PID controllers with fuzzy logic to eliminate oscillations and provide smoother trajectory corrections.
 * **Advanced Filtering:** Further optimization of the image processing pipeline to handle variable lighting conditions and dynamic shadows.
 * **Hardware Deployment:** Transitioning the algorithms from the physics simulation environment to real-world testing on the Parrot Mambo drone.
+
+
