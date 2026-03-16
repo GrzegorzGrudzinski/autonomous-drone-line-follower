@@ -64,3 +64,4 @@ To run and modify this simulation, the following software is required:
 * **Hardware Deployment:** Transitioning the algorithms from the physics simulation environment to real-world testing on the Parrot Mambo drone.
 
 
+
